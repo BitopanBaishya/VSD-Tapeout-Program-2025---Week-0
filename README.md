@@ -53,7 +53,8 @@ sudo make install
 yosys --version
 ```
 Output after installation looks like this:
-![Alt Text](Images/GTKWave Installation Verification.png)
+
+<img src="Images/Yosys_Installation.png" alt="Alt Text" width="600"/>
 </details>
 
 <details>
@@ -69,6 +70,9 @@ sudo apt-get install iverilog
 ```
 iverilog -v
 ```
+Output after installation looks like this:
+
+<img src="Images/Iverilog_Installation.png" alt="Alt Text" width="600"/>
 </details>
 
 <details>
@@ -84,4 +88,37 @@ sudo apt install gtkwave
 ```
 gtkwave -v
 ```
+Output after installation looks like this:
+
+<img src="Images/GTKWave_Installation.png" alt="Alt Text" width="600"/>
 </details>
+
+
+---
+
+
+## ⚠️ Challenges
+
+1. **Errors during Yosys installation:** While executing the installation commands for Yosys, certain errors may arise due to different reasons.
+In my case, the issue was caused by the improper initialization of a Git submodule during the cloning of the Yosys repository.
+This was resolved by searching the error message online (specifically using ChatGPT), which provided the appropriate guidance.
+It is important to note that similar or entirely different errors may occur on other devices, depending on their individual configurations. In such cases, it is advisable to carefully review the error message and search for relevant solutions before proceeding further.
+2. **Installation time:** The installation process of Yosys requires a considerable amount of time. Users should remain patient and allow the process to complete without interruption.
+
+
+---
+
+
+## 🏁 Final Remarks
+
+The completion of Week 0 marks the successful setup of the development environment required for the program.
+
+This week primarily focused on:
+
+- Installation of the essential tools,
+- Verifying proper configurations, and
+- Documenting the entire process for reproducibility.
+
+Although certain challenges were encountered during the setup, they provided valuable learning experiences in debugging and problem-solving within a Linux environment.
+
+📌For easy navigation to all weeks of the program, please visit the [Master Repository](https://github.com/BitopanBaishya/VSD-Tapeout-Program-2025.git).
