@@ -52,6 +52,8 @@ sudo make install
 ```
 yosys --version
 ```
+Output after installation looks like this:
+![Alt Text](Images/Yosys_Installation.png)
 </details>
 
 <details>
