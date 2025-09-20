@@ -53,7 +53,7 @@ sudo make install
 yosys --version
 ```
 Output after installation looks like this:
-![Alt Text](Images/Yosys_Installation.png)
+![Alt Text](Images/GTKWave Installation Verification.png)
 </details>
 
 <details>
