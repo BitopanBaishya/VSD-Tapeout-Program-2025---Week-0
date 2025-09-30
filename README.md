@@ -121,4 +121,5 @@ This week primarily focused on:
 
 Although certain challenges were encountered during the setup, they provided valuable learning experiences in debugging and problem-solving within a Linux environment.
 
-📌For easy navigation to all weeks of the program, please visit the [Master Repository](https://github.com/BitopanBaishya/VSD-Tapeout-Program-2025.git).
+>[!NOTE]
+> For easy navigation to all the weeks of the program, please visit the [Master Repository](https://github.com/BitopanBaishya/VSD-Tapeout-Program-2025.git).
